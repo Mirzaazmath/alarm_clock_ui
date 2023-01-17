@@ -1,5 +1,7 @@
 # watch
 
+<img src="https://github.com/Mirzaazmath/alarm_clock_ui/blob/main/assets/resilt.gif" height="400">
+
 A new Flutter project.
 
 ## Getting Started
